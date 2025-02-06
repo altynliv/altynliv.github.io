@@ -5,3 +5,6 @@ title: "Altyn Baigaliyeva"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+![](./images/dmitrii-shirnin-XDp60cGpE84-unsplash.jpg){width="80%" fig-align="center"}
