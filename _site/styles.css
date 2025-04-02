@@ -19,3 +19,13 @@ body {
     font-family: 'Poppins', sans-serif;
   }
   
+  img.profile-pic {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 10px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
