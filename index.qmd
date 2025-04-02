@@ -1,10 +1,89 @@
 ---
 title: "Altyn Baigaliyeva"
+format: html
+page-layout: full
+css: styles.css
 ---
 
-This is a Quarto website.
+# Altyn Baigaliyeva (She/her)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**MSc in Applied Business Analytics Candidate @ Boston University**  
+Project Administrator • Data Analytics Enthusiast • Civil Engineer by training
 
+---
 
-![](./images/dmitrii-shirnin-XDp60cGpE84-unsplash.jpg){width="80%" fig-align="center"}
+## 👋 About
+
+Welcome! I’m currently pursuing a Master's degree in Applied Business Analytics at Boston University.  
+My background spans civil engineering, academic support, and project administration across energy, education, and tech sectors.
+
+With over 10 years of professional experience, I’ve worked on large-scale engineering projects, supported academic programs at Nazarbayev University, and most recently led digital transformation efforts in Kazakhstan’s oil & gas and IT industries.
+
+I'm passionate about leveraging analytics and process improvement for impact-driven results — and believe in lifelong learning, curiosity, and collaboration.
+
+---
+
+## 🎓 Education
+
+**Boston University** — *Boston, MA, USA*  
+MSc in Applied Business Analytics, *Expected May 2026*
+
+**Kazakh National Technical University** — *Almaty, Kazakhstan*  
+BSc in Civil Engineering, *Sep 2008 – May 2012*  
+*Chevron Scholarship Recipient (2010–2012)*
+
+---
+
+## 💼 Work Experience
+
+**Solidcore Resources** — *Astana, Kazakhstan*  
+*Project Administrator* | *May 2023 – Sep 2024*  
+- Managed communications and project schedules between stakeholders and PMO  
+- Supported business process improvement and monitoring contractor deliverables
+
+**Noventiq** — *Astana, Kazakhstan*  
+*Project Administrator* | *Dec 2021 – Apr 2023*  
+- Led IT infrastructure projects (KazMunaiGaz) using Microsoft solutions  
+- Managed Power BI implementation for KazMinerals
+
+**Nazarbayev University** — *School of Engineering, Astana*  
+*Graduate Teaching Assistant* | *Dec 2016 – Dec 2021*  
+- Supported MSc/PhD admissions and taught Engineering Management labs  
+- Provided academic assistance and coordinated tutorials
+
+**Tengizchevroil (Chevron’s Business Unit)** — *Tengiz, Kazakhstan*  
+*Engineering Construction Manager* | *Jun 2012 – Dec 2016*  
+- Managed $11MM capital project at KTL Plant  
+- Ensured compliance, team coordination, and risk management
+
+---
+
+## 🛠 Skills & Technologies
+
+- **Analytics:** SQL, R, Python, Power BI, Tableau  
+- **Project Tools:** MS Project, Excel, Word  
+- **Languages:** English, Russian, Kazakh  
+- **Creative:** GIMP, Product Image Design  
+- **Other:** Inventory and eCommerce management (eBay, Amazon, Etsy)
+
+---
+
+## 🌱 Community
+
+- Volunteer, PMI Kazakhstan Chapter (Since 2019)
+
+---
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/altyn-baigaliyeva/)
+- [CV (PDF)](files/Altyn-CV.pdf)
+- [Boston University](https://www.bu.edu/)
+- [Solidcore Resources](https://www.solidcore-resources.com/en)
+- [Noventiq](https://noventiq.com/)
+- [Nazarbayev University](https://nu.edu.kz/)
+- [Tengizchevroil](https://www.tengizchevroil.com/)
+
+---
+
+© 2025 Altyn Baigaliyeva
