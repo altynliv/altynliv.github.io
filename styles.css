@@ -1,1 +1,10 @@
 /* css styles */
+body {
+    font-family: "Century Gothic", "Segoe UI", sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+  }
+  
