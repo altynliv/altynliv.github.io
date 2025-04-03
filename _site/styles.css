@@ -9,7 +9,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #ACFBAB;
+    background-color: #c4f5c3;
   }
   .page-wrapper {
     max-width: 900px;
@@ -35,7 +35,7 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
   }
   .section-box {
-    background-color: #98e895;  /* background boxes */
+    background-color: #c7cdc7;  /* background boxes */
     padding: 20px 25px;
     border-radius: 12px;
     margin: 8px;
