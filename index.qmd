@@ -1,5 +1,5 @@
 ---
-title: "Personal Portfolio"
+#title: "Personal Portfolio"
 format: html
 page-layout: full
 css: styles.css
@@ -10,6 +10,7 @@ css: styles.css
 <div class="centered">
   <img src="assets/photo.jpg" class="profile-pic">
   <h1>Altyn Baigaliyeva</h1>
+  <h2>Personal Portfolio</h2>
   <p>MSc in Applied Business Analytics | Project Administrator | Data Enthusiast</p>
 </div>
 
