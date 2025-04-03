@@ -10,5 +10,14 @@ website:
   title: "Altyn Baigaliyeva"
   navbar:
     right:
-      - text: "About"
-        href: about.qmd
+    - icon: file-pdf
+      href: files/Altyn-CV.pdf
+      aria-label: CV
+    - icon: linkedin
+      href: https://www.linkedin.com/in/altyn-baigaliyeva/
+      aria-label: LinkedIn
+    - icon: github
+      href: https://github.com/altynliv
+      aria-label: GitHub
+    - text: About
+      href: about.qmd

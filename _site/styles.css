@@ -47,5 +47,25 @@ body {
       padding: 0;  
     }
   }
+  .section-box a {
+    color: #1d3557;  
+    text-decoration: none; 
+  }
+  
+  .section-box a:hover {
+    color: #e63946;  
+    text-decoration: underline;
+  }
+  .section-box {
+    transition: transform 0.2s ease;
+  }
+  .section-box:hover {
+    transform: scale(1.01);
+  }
+  .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
   
   
