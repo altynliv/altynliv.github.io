@@ -11,7 +11,11 @@ css: styles.css
   <img src="assets/photo.jpg" class="profile-pic">
   <h1>Altyn Baigaliyeva</h1>
   <h2>Personal Portfolio</h2>
-  <p>MSc in Applied Business Analytics | Project Administrator | Data Enthusiast</p>
+  <p>
+  <i class="fa-solid fa-graduation-cap"></i> MSc in Applied Business Analytics &nbsp; | &nbsp;
+  <i class="fa-solid fa-diagram-project"></i> Project Administrator &nbsp; | &nbsp;
+  <i class="fa-solid fa-chart-line"></i> Data Enthusiast
+</p>
 </div>
 
 <div class="section-box">
