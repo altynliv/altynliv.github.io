@@ -17,7 +17,7 @@ Project Administrator • Data Analytics Enthusiast • Civil Engineer by traini
 
 ---
 
-## 👋 About
+## <i class="fa-solid fa-user"></i> About
 
 Welcome! I’m currently pursuing a Master's degree in Applied Business Analytics at Boston University.  
 My background spans civil engineering, academic support, and project administration across energy, education, and tech sectors.
@@ -30,7 +30,7 @@ I'm passionate about leveraging analytics and process improvement for impact-dri
 
 ---
 
-## 🎓 Education
+## <i class="fa-solid fa-graduation-cap"></i> Education
 
 **Boston University** — *Boston, MA, USA*  
 MSc in Applied Business Analytics, *Expected May 2026*
@@ -41,7 +41,7 @@ BSc in Civil Engineering, *Sep 2008 – May 2012*
 
 ---
 
-## 💼 Work Experience
+## <i class="fa-solid fa-briefcase"></i> Work Experience
 
 **Solidcore Resources** — *Astana, Kazakhstan*  
 *Project Administrator* | *May 2023 – Sep 2024*  
@@ -65,7 +65,7 @@ BSc in Civil Engineering, *Sep 2008 – May 2012*
 
 ---
 
-## 🛠 Skills & Technologies
+## <i class="fa-solid fa-gears"></i> Skills & Technologies
 
 - **Analytics:** SQL, R, Python, Power BI, Tableau  
 - **Project Tools:** MS Project, Excel, Word  
@@ -75,7 +75,7 @@ BSc in Civil Engineering, *Sep 2008 – May 2012*
 
 ---
 
-## 🌱 Community
+## <i class="fa-solid fa-people-group"></i> Community
 
 - Volunteer, PMI Kazakhstan Chapter (Since 2019)
 
@@ -89,7 +89,7 @@ BSc in Civil Engineering, *Sep 2008 – May 2012*
   </a>
 </div>
 
-## 🔗 Links
+## <i class="fa-solid fa-link"></i> Links
 
 - [LinkedIn](https://www.linkedin.com/in/altyn-baigaliyeva/)
 - [CV (PDF)](files/Altyn-CV.pdf)
