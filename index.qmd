@@ -4,98 +4,93 @@ format: html
 page-layout: full
 css: styles.css
 ---
+
 <div class="centered">
   <img src="assets/photo.jpg" class="profile-pic">
   <h1>Altyn Baigaliyeva</h1>
   <p>MSc in Applied Business Analytics | Project Administrator | Data Enthusiast</p>
 </div>
 
-# Altyn Baigaliyeva (She/her)
-
-**MSc in Applied Business Analytics Candidate @ Boston University**  
-Project Administrator • Data Analytics Enthusiast • Civil Engineer by training
-
----
 <div class="section-box">
-
-## <i class="fa-solid fa-user"></i> About
-
-Welcome! I’m currently pursuing a Master's degree in Applied Business Analytics at Boston University.  
-My background spans civil engineering, academic support, and project administration across energy, education, and tech sectors.
-
-With over 10 years of professional experience, I’ve worked on large-scale engineering projects, supported academic programs at Nazarbayev University, and most recently led digital transformation efforts in Kazakhstan’s oil & gas and IT industries.
-
-I'm passionate about leveraging analytics and process improvement for impact-driven results — and believe in lifelong learning, curiosity, and collaboration.
-
-**Relationship status:** In a relationship.
-
+  <h2><i class="fa-solid fa-user"></i> About</h2>
+  <p>Welcome! I’m currently pursuing a Master's degree in Applied Business Analytics at Boston University.</p>
+  <p>My background spans civil engineering, academic support, and project administration across energy, education, and tech sectors.</p>
+  <p>With over 10 years of professional experience, I’ve worked on large-scale engineering projects, supported academic programs at Nazarbayev University, and most recently led digital transformation efforts in Kazakhstan’s oil & gas and IT industries.</p>
+  <p>I'm passionate about leveraging analytics and process improvement for impact-driven results — and believe in lifelong learning, curiosity, and collaboration.</p>
+  <p><strong>Status:</strong> ❤️ In a relationship</p>
 </div>
----
 
 <div class="section-box">
-
-## <i class="fa-solid fa-graduation-cap"></i> Education
-
-**Boston University** — *Boston, MA, USA*  
-MSc in Applied Business Analytics, *Expected May 2026*
-
-**Kazakh National Technical University** — *Almaty, Kazakhstan*  
-BSc in Civil Engineering, *Sep 2008 – May 2012*  
-*Chevron Scholarship Recipient (2010–2012)*
-
+  <h2><i class="fa-solid fa-graduation-cap"></i> Education</h2>
+  <ul>
+    <li><strong>Boston University</strong> — MSc in Applied Business Analytics, <em>Expected May 2026</em></li>
+    <li><strong>Kazakh National Technical University</strong> — BSc in Civil Engineering, <em>Sep 2008 – May 2012</em><br>
+    <em>Chevron Scholarship Recipient (2010–2012)</em></li>
+  </ul>
 </div>
----
 
 <div class="section-box">
+  <h2><i class="fa-solid fa-briefcase"></i> Work Experience</h2>
 
-## <i class="fa-solid fa-briefcase"></i> Work Experience
+  <p><strong>Solidcore Resources</strong> — Astana, Kazakhstan  
+  <br><em>Project Administrator</em> | May 2023 – Sep 2024</p>
+  <ul>
+    <li>Managed communications and project schedules between stakeholders and PMO</li>
+    <li>Supported business process improvement and monitored contractor deliverables</li>
+  </ul>
 
-**Solidcore Resources** — *Astana, Kazakhstan*  
-*Project Administrator* | *May 2023 – Sep 2024*  
-- Managed communications and project schedules between stakeholders and PMO  
-- Supported business process improvement and monitoring contractor deliverables
+  <p><strong>Noventiq</strong> — Astana, Kazakhstan  
+  <br><em>Project Administrator</em> | Dec 2021 – Apr 2023</p>
+  <ul>
+    <li>Led IT infrastructure projects (KazMunaiGaz) using Microsoft solutions</li>
+    <li>Managed Power BI implementation for KazMinerals</li>
+  </ul>
 
-**Noventiq** — *Astana, Kazakhstan*  
-*Project Administrator* | *Dec 2021 – Apr 2023*  
-- Led IT infrastructure projects (KazMunaiGaz) using Microsoft solutions  
-- Managed Power BI implementation for KazMinerals
+  <p><strong>Nazarbayev University</strong> — Astana  
+  <br><em>Graduate Teaching Assistant</em> | Dec 2016 – Dec 2021</p>
+  <ul>
+    <li>Supported MSc/PhD admissions and taught Engineering Management labs</li>
+    <li>Provided academic assistance and coordinated tutorials</li>
+  </ul>
 
-**Nazarbayev University** — *School of Engineering, Astana*  
-*Graduate Teaching Assistant* | *Dec 2016 – Dec 2021*  
-- Supported MSc/PhD admissions and taught Engineering Management labs  
-- Provided academic assistance and coordinated tutorials
-
-**Tengizchevroil (Chevron’s Business Unit)** — *Tengiz, Kazakhstan*  
-*Engineering Construction Manager* | *Jun 2012 – Dec 2016*  
-- Managed $11MM capital project at KTL Plant  
-- Ensured compliance, team coordination, and risk management
-
+  <p><strong>Tengizchevroil (Chevron’s Business Unit)</strong> — Tengiz, Kazakhstan  
+  <br><em>Engineering Construction Manager</em> | Jun 2012 – Dec 2016</p>
+  <ul>
+    <li>Managed $11MM capital project at KTL Plant</li>
+    <li>Ensured compliance, team coordination, and risk management</li>
+  </ul>
 </div>
----
 
 <div class="section-box">
-
-## <i class="fa-solid fa-gears"></i> Skills & Technologies
-
-- **Analytics:** SQL, R, Python, Power BI, Tableau  
-- **Project Tools:** MS Project, Excel, Word  
-- **Languages:** English, Russian, Kazakh  
-- **Creative:** GIMP, Product Image Design  
-- **Other:** Inventory and eCommerce management (eBay, Amazon, Etsy)
-
+  <h2><i class="fa-solid fa-gears"></i> Skills & Technologies</h2>
+  <ul>
+    <li><strong>Analytics:</strong> SQL, R, Python, Power BI, Tableau</li>
+    <li><strong>Project Tools:</strong> MS Project, Excel, Word</li>
+    <li><strong>Languages:</strong> English, Russian, Kazakh</li>
+    <li><strong>Creative:</strong> GIMP, Product Image Design</li>
+    <li><strong>Other:</strong> Inventory and eCommerce management (eBay, Amazon, Etsy)</li>
+  </ul>
 </div>
----
 
 <div class="section-box">
-
-## <i class="fa-solid fa-people-group"></i> Community
-
-- Volunteer, PMI Kazakhstan Chapter (Since 2019)
-
+  <h2><i class="fa-solid fa-people-group"></i> Community</h2>
+  <ul>
+    <li>Volunteer, PMI Kazakhstan Chapter (Since 2019)</li>
+  </ul>
 </div>
----
 
----
+<div class="section-box">
+  <h2><i class="fa-solid fa-link"></i> Links</h2>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/altyn-baigaliyeva/">LinkedIn</a></li>
+    <li><a href="files/Altyn-CV.pdf">CV (PDF)</a></li>
+    <li><a href="https://www.bu.edu/">Boston University</a></li>
+    <li><a href="https://www.solidcore-resources.com/en">Solidcore Resources</a></li>
+    <li><a href="https://noventiq.com/">Noventiq</a></li>
+    <li><a href="https://nu.edu.kz/">Nazarbayev University</a></li>
+    <li><a href="https://www.tengizchevroil.com/">Tengizchevroil</a></li>
+  </ul>
+</div>
 
 <div class="centered" style="margin-top: 40px;">
   <a href="https://met-ad-688.github.io/assignment-02-altynliv/" target="_blank" style="text-decoration: none; color: inherit;">
@@ -104,16 +99,6 @@ BSc in Civil Engineering, *Sep 2008 – May 2012*
   </a>
 </div>
 
-## <i class="fa-solid fa-link"></i> Links
-
-- [LinkedIn](https://www.linkedin.com/in/altyn-baigaliyeva/)
-- [CV (PDF)](files/Altyn-CV.pdf)
-- [Boston University](https://www.bu.edu/)
-- [Solidcore Resources](https://www.solidcore-resources.com/en)
-- [Noventiq](https://noventiq.com/)
-- [Nazarbayev University](https://nu.edu.kz/)
-- [Tengizchevroil](https://www.tengizchevroil.com/)
-
----
-
-© 2025 Altyn Baigaliyeva
+<footer style="text-align: center; margin-top: 40px;">
+  <p>© 2025 Altyn Baigaliyeva</p>
+</footer>
