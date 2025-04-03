@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "Personal Portfolio of Altyn Baigaliyeva"
 ---
 
-About this site
+## 📫 Contact
+
+- Email: [altynliv@bu.edu](mailto:altynliv@bu.edu)  
+- LinkedIn: [linkedin.com/in/altyn-baigaliyeva](https://linkedin.com/in/altyn-baigaliyeva)
