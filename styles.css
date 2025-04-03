@@ -56,5 +56,16 @@ body {
     color: #e63946;  
     text-decoration: underline;
   }
+  .section-box {
+    transition: transform 0.2s ease;
+  }
+  .section-box:hover {
+    transform: scale(1.01);
+  }
+  .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
   
   
