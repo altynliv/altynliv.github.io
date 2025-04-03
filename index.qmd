@@ -16,6 +16,7 @@ css: styles.css
 Project Administrator • Data Analytics Enthusiast • Civil Engineer by training
 
 ---
+<div class="section-box">
 
 ## <i class="fa-solid fa-user"></i> About
 
@@ -28,7 +29,10 @@ I'm passionate about leveraging analytics and process improvement for impact-dri
 
 **Relationship status:** In a relationship.
 
+</div>
 ---
+
+<div class="section-box">
 
 ## <i class="fa-solid fa-graduation-cap"></i> Education
 
@@ -39,7 +43,10 @@ MSc in Applied Business Analytics, *Expected May 2026*
 BSc in Civil Engineering, *Sep 2008 – May 2012*  
 *Chevron Scholarship Recipient (2010–2012)*
 
+</div>
 ---
+
+<div class="section-box">
 
 ## <i class="fa-solid fa-briefcase"></i> Work Experience
 
@@ -63,7 +70,10 @@ BSc in Civil Engineering, *Sep 2008 – May 2012*
 - Managed $11MM capital project at KTL Plant  
 - Ensured compliance, team coordination, and risk management
 
+</div>
 ---
+
+<div class="section-box">
 
 ## <i class="fa-solid fa-gears"></i> Skills & Technologies
 
@@ -73,13 +83,18 @@ BSc in Civil Engineering, *Sep 2008 – May 2012*
 - **Creative:** GIMP, Product Image Design  
 - **Other:** Inventory and eCommerce management (eBay, Amazon, Etsy)
 
+</div>
 ---
+
+<div class="section-box">
 
 ## <i class="fa-solid fa-people-group"></i> Community
 
 - Volunteer, PMI Kazakhstan Chapter (Since 2019)
 
+</div>
 ---
+
 ---
 
 <div class="centered" style="margin-top: 40px;">
