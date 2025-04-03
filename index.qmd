@@ -5,6 +5,8 @@ page-layout: full
 css: styles.css
 ---
 
+<div class="page-wrapper">
+
 <div class="centered">
   <img src="assets/photo.jpg" class="profile-pic">
   <h1>Altyn Baigaliyeva</h1>
@@ -102,3 +104,5 @@ css: styles.css
 <footer style="text-align: center; margin-top: 40px;">
   <p>© 2025 Altyn Baigaliyeva</p>
 </footer>
+
+</div>
