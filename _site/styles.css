@@ -130,5 +130,26 @@ body {
     margin-right: auto;
   }
   
+  .back-to-top {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    font-size: 28px;
+    color: #1d3557;
+    background-color: #ffffffcc;
+    padding: 10px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    z-index: 1000;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .back-to-top:hover {
+    background-color: #98e895;
+    transform: scale(1.1);
+  }
+  
 
   
