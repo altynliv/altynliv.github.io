@@ -139,6 +139,13 @@ css: styles.css
   <a href="projects/Baigaliyeva_Assignment_IV.html" target="_blank">Open Report</a>
 </div>
 
+<div class="project-card">
+  <img src="assets/average-salary.png" alt="Classification Analysis">
+  <h3>Average Salary vs. Experience</h3>
+  <p>Web Analytics: Bachelor's or Lower Education The scatter plot.</p>
+  <a href="projects/q1_avg_salary_vs_experience_bachelors.html" target="_blank">Open Report</a>
+</div>
+
 </div>
 </div>
 
