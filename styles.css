@@ -151,31 +151,12 @@ body {
     transform: scale(1.1);
   }
  
-  nav a[aria-label] {
-    position: relative;
+  .quarto-navbar.scrolled {
+    background-color: rgba(44, 62, 80, 0.85); 
+    backdrop-filter: blur(6px); 
+    transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
   }
   
-  nav a[aria-label]::after {
-    content: attr(aria-label);
-    position: absolute;
-    bottom: -5px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: #333;
-    color: #fff;
-    padding: 4px 8px;
-    border-radius: 6px;
-    font-size: 0.75rem;
-    white-space: nowrap;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.3s ease;
-    z-index: 999;
-  }
-  
-  nav a[aria-label]:hover::after {
-    opacity: 1;
-  }
   
 
   
