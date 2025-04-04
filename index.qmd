@@ -100,16 +100,21 @@ css: styles.css
 </div>
 
 <div class="section-box">
-<div class="centered" style="margin-top: 40px;">
-  <a href="https://met-ad-688.github.io/assignment-02-altynliv/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="32" style="vertical-align: middle; margin-right: 8px;">
-    <strong>My GitHub Project</strong>
-  </a>
-  <a href="projects/Baigaliyeva_Assigment_II.html" target="_blank" style="text-decoration: none; color: inherit;">
-    <i class="fa-solid fa-chart-pie" style="margin-right: 8px;"></i>
-    <strong>Marketing Analytics: Market Segmentation & Conjoint Analysis</strong>
-  </a>
-</div>
+  <h2><i class="fa-solid fa-folder-open"></i> Projects</h2>
+
+  <div class="centered" style="margin-top: 24px;">
+    <a href="https://met-ad-688.github.io/assignment-02-altynliv/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="28" style="vertical-align: middle; margin-right: 8px;">
+      <strong>My GitHub Project</strong>
+    </a>
+  </div>
+
+  <div class="centered" style="margin-top: 16px;">
+    <a href="projects/Baigaliyeva_Assigment_II.html" target="_blank" style="text-decoration: none; color: inherit;">
+      <i class="fa-solid fa-chart-pie" style="margin-right: 8px;"></i>
+      <strong>Marketing Analytics: Market Segmentation & Conjoint Analysis</strong>
+    </a>
+  </div>
 </div>
 
 <footer style="text-align: center; margin-top: 40px;">
