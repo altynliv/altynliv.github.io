@@ -13,13 +13,13 @@ website:
     left:
     - icon: file-earmark-person-fill
       href: files/Altyn-CV.pdf
-      aria-label: CV
+      text: CV
     - icon: linkedin
       href: https://www.linkedin.com/in/altyn-baigaliyeva/
-      aria-label: LinkedIn
+      text: LinkedIn
     - icon: github
       href: https://github.com/altynliv
-      aria-label: GitHub
+      text: GitHub
     - text: About
       href: about.qmd
     right:

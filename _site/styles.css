@@ -151,21 +151,21 @@ body {
     transform: scale(1.1);
   }
  
-  .navbar a[aria-label] {
+  nav a[aria-label] {
     position: relative;
   }
   
-  .navbar a[aria-label]::after {
+  nav a[aria-label]::after {
     content: attr(aria-label);
     position: absolute;
-    bottom: -32px;
+    bottom: -5px;
     left: 50%;
     transform: translateX(-50%);
     background: #333;
     color: #fff;
-    font-size: 0.75rem;
     padding: 4px 8px;
-    border-radius: 4px;
+    border-radius: 6px;
+    font-size: 0.75rem;
     white-space: nowrap;
     opacity: 0;
     pointer-events: none;
@@ -173,7 +173,7 @@ body {
     z-index: 999;
   }
   
-  .navbar a[aria-label]:hover::after {
+  nav a[aria-label]:hover::after {
     opacity: 1;
   }
   
