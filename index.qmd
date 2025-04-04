@@ -5,6 +5,8 @@ page-layout: full
 css: styles.css
 ---
 
+<div id="top"></div>
+
 <div class="page-wrapper">
 
 <div class="centered">
@@ -152,5 +154,9 @@ css: styles.css
 <footer style="text-align: center; margin-top: 40px;">
   <p>© 2025 Altyn Baigaliyeva</p>
 </footer>
+
+<a href="#top" class="back-to-top" title="Back to Top">
+  <i class="fa-solid fa-circle-up"></i>
+</a>
 
 </div>
