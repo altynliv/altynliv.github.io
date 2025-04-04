@@ -101,7 +101,6 @@ css: styles.css
 
 <div class="section-box">
   <h2><i class="fa-solid fa-folder-open"></i> Projects</h2>
-</div>
 
 <div class="projects-grid">
 
@@ -131,6 +130,8 @@ css: styles.css
   <h3>Classification</h3>
   <p>Assignment IV: Predictive modeling and classification using logistic regression.</p>
   <a href="projects/Baigaliyeva_Assignment_IV.html" target="_blank">Open Report</a>
+</div>
+
 </div>
 </div>
 
