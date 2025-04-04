@@ -121,6 +121,9 @@ body {
   .project-card a:hover {
     background-color: #21867a;
   }
-  
+ 
+  .centered {
+    text-align: center;
+  }
   
   
