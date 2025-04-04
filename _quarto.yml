@@ -9,6 +9,7 @@ format:
 website:
   title: "Altyn Baigaliyeva"
   navbar:
+    sticky: true
     right:
     - icon: file-pdf
       href: files/Altyn-CV.pdf
