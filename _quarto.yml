@@ -11,7 +11,7 @@ website:
   navbar:
     sticky: true
     left:
-    - icon: file-pdf
+    - icon: file-earmark-person-fill
       href: files/Altyn-CV.pdf
       aria-label: CV
     - icon: linkedin
