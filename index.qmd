@@ -112,6 +112,13 @@ css: styles.css
 </div>
 
 <div class="project-card">
+  <img src="assets/group-project.png" alt="GitHub Project Preview">
+  <h3>Our GitHub Group Project</h3>
+  <p>Salary trends in data science 2024.</p>
+  <a href="https://cyxnbnbnb.github.io/ad688-employability-sp25A1-group6/" target="_blank">View Project</a>
+</div>
+
+<div class="project-card">
   <img src="assets/marketing-preview.png" alt="Marketing Segmentation">
   <h3>Market Segmentation</h3>
   <p>Assignment II: Customer segmentation and conjoint analysis in R.</p>
