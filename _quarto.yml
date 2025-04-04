@@ -33,5 +33,5 @@ website:
       href: "#community"
     - text: "Links"
       href: "#links"
-      text: "Projects"
+    - text: "Projects"
       href: "#projects"
