@@ -105,6 +105,10 @@ css: styles.css
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="32" style="vertical-align: middle; margin-right: 8px;">
     <strong>My GitHub Project</strong>
   </a>
+  <a href="projects/Baigaliyeva_Assigment_II.html" target="_blank" style="text-decoration: none; color: inherit;">
+    <i class="fa-solid fa-chart-pie" style="margin-right: 8px;"></i>
+    <strong>Marketing Analytics: Market Segmentation & Conjoint Analysis</strong>
+  </a>
 </div>
 </div>
 
