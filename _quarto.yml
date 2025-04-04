@@ -10,7 +10,7 @@ website:
   title: "Altyn Baigaliyeva"
   navbar:
     sticky: true
-    right:
+    left:
     - icon: file-pdf
       href: files/Altyn-CV.pdf
       aria-label: CV
@@ -22,3 +22,16 @@ website:
       aria-label: GitHub
     - text: About
       href: about.qmd
+    right:
+    - text: "Education"
+      href: "#education"
+    - text: "Experience"
+      href: "#experience"
+    - text: "Skills"
+      href: "#skills"
+    - text: "Community"
+      href: "#community"
+    - text: "Links"
+      href: "#links"
+      text: "Projects"
+      href: "#projects"

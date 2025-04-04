@@ -28,7 +28,7 @@ css: styles.css
 </div>
 
 <div class="section-box">
-  <h2><i class="fa-solid fa-graduation-cap"></i> Education</h2>
+  <h2 id="education"><i class="fa-solid fa-graduation-cap"></i> Education</h2>
   <ul>
     <li><strong>Boston University</strong> — MSc in Applied Business Analytics, <em>Expected May 2026</em></li>
     <li><strong>Kazakh National Technical University</strong> — BSc in Civil Engineering, <em>Sep 2008 – May 2012</em><br>
@@ -37,7 +37,7 @@ css: styles.css
 </div>
 
 <div class="section-box">
-  <h2><i class="fa-solid fa-briefcase"></i> Work Experience</h2>
+  <h2 id="experience"><i class="fa-solid fa-briefcase"></i> Work Experience</h2>
 
   <p><strong>Solidcore Resources</strong> — Astana, Kazakhstan  
   <br><em>Project Administrator</em> | May 2023 – Sep 2024</p>
@@ -69,7 +69,7 @@ css: styles.css
 </div>
 
 <div class="section-box">
-  <h2><i class="fa-solid fa-gears"></i> Skills & Technologies</h2>
+  <h2 id="skills"><i class="fa-solid fa-gears"></i> Skills & Technologies</h2>
   <ul>
     <li><strong>Analytics:</strong> SQL, R, Python, Power BI, Tableau</li>
     <li><strong>Project Tools:</strong> MS Project, Excel, Word</li>
@@ -80,14 +80,14 @@ css: styles.css
 </div>
 
 <div class="section-box">
-  <h2><i class="fa-solid fa-people-group"></i> Community</h2>
+  <h2 id="community"><i class="fa-solid fa-people-group"></i> Community</h2>
   <ul>
     <li>Volunteer, PMI Kazakhstan Chapter (Since 2019)</li>
   </ul>
 </div>
 
 <div class="section-box">
-  <h2><i class="fa-solid fa-link"></i> Links</h2>
+  <h2 id="links"><i class="fa-solid fa-link"></i> Links</h2>
   <ul>
     <li><a href="https://www.linkedin.com/in/altyn-baigaliyeva/">LinkedIn</a></li>
     <li><a href="files/Altyn-CV.pdf">CV (PDF)</a></li>
@@ -100,7 +100,7 @@ css: styles.css
 </div>
 
 <div class="section-box">
-  <h2><i class="fa-solid fa-folder-open"></i> Projects</h2>
+  <h2 id="projects"><i class="fa-solid fa-folder-open"></i> Projects</h2>
 
 <div class="projects-grid">
 
