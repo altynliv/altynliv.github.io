@@ -3,9 +3,7 @@ project:
 
 format:
   html:
-    include-after-body:
-      - text: |
-          <script src="scripts.js"></script>
+    include-after-body: _site/scripts.js
     css: styles.css
     theme: flatly
 
